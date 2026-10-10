@@ -1,0 +1,19 @@
+{
+  "name": "casino-bonus-scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+     "scrape": "node scraper.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google/genai": "^2.28.0",
+    "cheerio": "^1.2.0",
+    "dotenv": "^18.0.7",
+    "openai": "^7.32.0",
+    "zod": "^4.6.5"
+  }
+}

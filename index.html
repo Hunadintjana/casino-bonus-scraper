@@ -1,0 +1,46 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Casino Bonus Comparison</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="app.js" defer></script>
+</head>
+<body>
+  <header>
+    <div class="container">
+      <p class="eyebrow">DATA EXTRACTION PROJECT</p>
+      <h1>Casino Bonus Comparison</h1>
+      <p>Compare published welcome bonus terms.</p>
+    </div>
+  </header>
+
+  <main class="container">
+    <h2>Welcome offers</h2>
+    <p id="status" role="status">Loading bonus data...</p>
+
+    <div class="table-wrapper">
+      <table>
+        <thead>
+          <tr>
+            <th>Casino</th>
+            <th>Welcome bonus</th>
+            <th>Wagering requirement</th>
+            <th>Minimum deposit</th>
+            <th>Source</th>
+          </tr>
+        </thead>
+        <tbody id="bonus-rows"></tbody>
+      </table>
+    </div>
+
+    <p id="updated" class="updated"></p>
+  </main>
+
+  <footer class="container">
+    <p>Assessment prototype. Verify all offers and terms at the source.</p>
+  </footer>
+</body>
+</html>

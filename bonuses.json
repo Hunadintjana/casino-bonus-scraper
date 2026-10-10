@@ -1,0 +1,27 @@
+{
+  "source": "https://www.casino.com/zar/free-spins/",
+  "scrapedAt": "2026-10-10T06:25:29.037Z",
+  "casinos": [
+    {
+      "casino": "Jackpot City",
+      "welcomeBonus": "One spin on the Big City Wheel",
+      "wageringRequirement": "5x or 30x on deposit match funds",
+      "minimumDeposit": "R10",
+      "sourceUrl": "https://www.casino.com/zar/free-spins/"
+    },
+    {
+      "casino": "Lulabet",
+      "welcomeBonus": "100 free spins on Gates of Olympus",
+      "wageringRequirement": "No wagering requirements on winnings once the initial R250 qualification bet is placed",
+      "minimumDeposit": "R50 general minimum deposit; R250 required for this offer",
+      "sourceUrl": "https://www.casino.com/zar/free-spins/"
+    },
+    {
+      "casino": "LuckyFish",
+      "welcomeBonus": "25 free spins",
+      "wageringRequirement": "Qualifying odds apply to the welcome bonus",
+      "minimumDeposit": "R50",
+      "sourceUrl": "https://www.casino.com/zar/free-spins/"
+    }
+  ]
+}
