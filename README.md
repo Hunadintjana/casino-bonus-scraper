@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Casino Bonus Scraper
 
 A Node.js scraper that retrieves casino bonus information from a public Casino.com page, uses the Google Gemini API to structure bonus terms, and saves the results to JSON. 
@@ -138,4 +137,4 @@ https://www.casino.com/zar/free-spins/
 Security
 
 API keys must remain in .env, which is excluded from version control. Never publish API keys in source code, logs, or repository files.
->>>>>>> 4ada7ebe9be1afdcf7b94f20c3079d1ee62b2916
+
