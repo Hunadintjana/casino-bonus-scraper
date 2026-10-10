@@ -7,6 +7,7 @@ Live website
 https://hunadintjana.github.io/casino-bonus-scraper/
 
 Technologies
+
 Node.js and JavaScript
 Cheerio for HTML text extraction
 Google Gemini API for structuring bonus information
