@@ -4,6 +4,7 @@ A Node.js scraper that retrieves casino bonus information from a public Casino.c
 A responsive webpage displays the three extracted offers.
 
 Live website
+
 https://hunadintjana.github.io/casino-bonus-scraper/
 
 Technologies
@@ -18,6 +19,7 @@ A Google Gemini API key with API access
 Installation
 
 Clone this repository:
+
 git clone https://github.com/Hunadintjana/casino-bonus-scraper.git
 
 Enter the project folder:
@@ -53,6 +55,7 @@ Open the local URL shown in the terminal.
 The page reads bonuses.json and displays the casino name, bonus offer, wagering requirement, minimum deposit, and source link.
 
 Limitations
+
 Extracted terms should be verified against the source page.
 Values missing from the source are recorded as "Not stated" rather than guessed.
 GitHub Pages hosts the static webpage; it does not run the Node.js scraper.
