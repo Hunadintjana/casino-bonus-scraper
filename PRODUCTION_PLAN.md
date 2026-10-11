@@ -8,4 +8,4 @@ I would register a domain through a registrar and configure DNS to point to the 
 
 The daily job would run through Cloud Scheduler. I would log each casino's scrape result, HTTP status, extraction time, and validation errors. Cloud Monitoring alerts would notify me by email if a run failed, data was missing, a source changed format, or too many records failed validation. Failed jobs would use limited retries and would not overwrite valid records with incomplete data.
 
-For a rough monthly budget, I would initially allow approximately US$30–100 for the application, database, backups, monitoring, and domain averaged over the year. Actual costs would depend on request volume, database size, AI usage, and cloud-region pricing. I would review costs and usage after the first month and set budget alerts.
+For a rough monthly budget, I would initially allow approximately R496–R1,654 ZAR for the application, database, backups, monitoring, and domain averaged over the year. Actual costs would depend on request volume, database size, AI usage, and cloud-region pricing. I would review costs and usage after the first month and set budget alerts.
